@@ -10,6 +10,6 @@ In each directory, `sources` represent thes resource video files. `music` gives 
 
 extraction: efnu
 
-[result.mp4](https://pan.baidu.com/s/1m453pZHRybCE22QxB2cWqA / "resul.mp4")
+[result](https://pan.baidu.com/s/1m453pZHRybCE22QxB2cWqA/ "result")
 
 extraction: ouw3 
